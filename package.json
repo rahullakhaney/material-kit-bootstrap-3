@@ -1,0 +1,27 @@
+{
+  "name": "Material Kit",
+  "version": "1.0.0",
+  "description": "Material Kit for Bootstrap 3",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:tfsimondouglas/material-kit-bootstrap-3.git"
+  },
+  "author": {
+    "name": "Tim Creative"
+  },
+  "license": "MIT",
+  "homepage": "http://www.creative-tim.com/product/material-kit",
+  "bugs": {
+    "url": "http://www.creative-tim.com/product/material-kit"
+  },
+  "dependencies": {},
+  "directories": {}
+}
