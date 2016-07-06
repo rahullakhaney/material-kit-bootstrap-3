@@ -2,7 +2,7 @@
   "name": "material-kit",
   "version": "1.0.0",
   "description": "Material Kit for Bootstrap 3",
-  "main": "index.html",
+  "main": "assets/js/material.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
